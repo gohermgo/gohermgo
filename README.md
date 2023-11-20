@@ -1,14 +1,5 @@
 ### Hi there 👋
-My name is Herman Aleksander Gohn, I am an electrical engineer, specialized in control engineering, with a great passion for anything related to computers.
-- 🔭 I’m currently working on ...
-
-  I had the wonderful idea of writing a fullstack application in Rust. It is not exactly a simple endeavor, but very fun, and educational. I am also working on a contextual terminal application, the scope of which is yet to be determined.
-- 🌱 I’m currently learning ...
-  
-  The Rust language! While I would say I am definitely pretty proficient in it by now, the complexity of the language cannot be understated, and I consider it a lifelong learning opportunity.
-- 📫 How to reach me:
-
-  I am the easiest to reach by email, at gohnherman@gmail.com!
+I code sometimes
 <!--
 **gohermgo/gohermgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
